@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Praktikant\\GarageTask\\LabTask#14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{264861ED-5334-4FBC-A85F-239702AE6EF3}|LabTask#14\\LabTask#14.csproj|d:\\praktikant\\garagetask\\labtask#14\\labtask#14\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264861ED-5334-4FBC-A85F-239702AE6EF3}|LabTask#14\\LabTask#14.csproj|solutionrelative:labtask#14\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264861ED-5334-4FBC-A85F-239702AE6EF3}|LabTask#14\\LabTask#14.csproj|d:\\praktikant\\garagetask\\labtask#14\\labtask#14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264861ED-5334-4FBC-A85F-239702AE6EF3}|LabTask#14\\LabTask#14.csproj|solutionrelative:labtask#14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\LabTask#14\\LabTask#14\\Product.cs",
+              "RelativeDocumentMoniker": "LabTask#14\\Product.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\LabTask#14\\LabTask#14\\Product.cs",
+              "RelativeToolTip": "LabTask#14\\Product.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T07:38:46.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\LabTask#14\\LabTask#14\\Program.cs",
+              "RelativeDocumentMoniker": "LabTask#14\\Program.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\LabTask#14\\LabTask#14\\Program.cs",
+              "RelativeToolTip": "LabTask#14\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T07:37:41.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
